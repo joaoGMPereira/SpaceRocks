@@ -16,4 +16,8 @@ if(keyboard_check_pressed(vk_space)) {
 	inst.direction = image_angle;
 }
 
+if(keyboard_check_released(vk_up) || keyboard_check_released(vk_down)) {
+	motion_set(image_angle, 0);
+}
+
 move_wrap(true,true, sprite_width/2);

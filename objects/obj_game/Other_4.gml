@@ -1,4 +1,6 @@
 if(room == rm_game) {
+	view_enabled = true;
+	view_visible[0] = true;
 	if (audio_is_playing(msc_song)) {
 		audio_stop_sound(msc_song);
 	}
@@ -15,4 +17,5 @@ if(room == rm_game) {
 		instance_create_layer(xx, yy, "Instances", obj_asteroid);
 	}
 	alarm[0] = 60;
+	alarm[2] = 40;
 }

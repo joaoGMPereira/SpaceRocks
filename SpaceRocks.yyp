@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "07971668-4c2a-412b-b7c9-e6ca08e2025e",
+            "Value": {
+                "id": "86156a81-d2c9-4aed-81e5-00089a0a94ac",
+                "resourcePath": "objects\/obj_enemy\/obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d286cf6-0c27-44c2-b3a8-dbdab64f1f2d",
             "Value": {
                 "id": "eafceb47-e379-4bf1-8e42-360b1939c4c1",
@@ -132,6 +140,14 @@
                 "id": "993a60e6-54da-413e-acc7-3282468e91fb",
                 "resourcePath": "views\/6b143170-9ef2-419b-8edc-aa44b6211052.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78cd83b3-da61-4b7f-9545-c8be52f70c61",
+            "Value": {
+                "id": "4b81b720-58f9-4f21-832a-f3321c44950b",
+                "resourcePath": "sprites\/spr_enemy\/spr_enemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "aa0bfe62-495b-480c-8fb5-7d4e47660919",
+            "Value": {
+                "id": "ac430bd9-722c-40fc-ad52-cd4c5b2ab78f",
+                "resourcePath": "objects\/obj_enemy_bullet\/obj_enemy_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b3a6aacd-2459-4e0b-9f0f-1ae10b625bb1",
             "Value": {
                 "id": "6d27f79f-e5f9-41cb-96a4-2e673b97e6bc",
@@ -268,6 +292,14 @@
                 "id": "6ca5cc01-11bf-49ee-b234-8cece50c359e",
                 "resourcePath": "rooms\/rm_game\/rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d4f3b943-b228-43f9-8938-533ff330a1cc",
+            "Value": {
+                "id": "3b4f1896-8ff4-4170-b4af-84f6c7cd3f4a",
+                "resourcePath": "sprites\/spr_enemy_bullet\/spr_enemy_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
